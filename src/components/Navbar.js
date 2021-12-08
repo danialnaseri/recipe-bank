@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import { Link } from "gatsby"
 import { FaAlignJustify } from "react-icons/fa"
 import logo from "../assets/images/logoImg.jpg"
-import logoText from "../assets/images/recipebank.svg"
+import logoText from "../assets/images/RecipeBank.svg"
 import { StaticImage } from "gatsby-plugin-image"
 
 const Navbar = () => {
